@@ -14,7 +14,7 @@ export default function Login({ onLogin }) {
     <div
       className="flex items-center justify-center h-screen bg-cover bg-center"
       style={{
-        backgroundImage: `url('/imafon.jpg')`,
+        backgroundImage: `url('/fonds.jpeg')`,
       }}
     >
       <form
