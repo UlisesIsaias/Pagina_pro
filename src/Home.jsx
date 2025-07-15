@@ -1,3 +1,4 @@
+import React from "react";
 
 export default function Home({ onLogout }) {
   const user = JSON.parse(localStorage.getItem("user"));
