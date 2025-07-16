@@ -16,3 +16,4 @@ export default function App() {
     <Login onLogin={() => setIsLoggedIn(true)} />
   );
 }
+
